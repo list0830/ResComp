@@ -36,4 +36,4 @@ If you find our work useful in your research, please kindly cite this paper:
 }
 ```
 
-Besides, if you are interested in vector quantization, checkout our previous papers: [SSVQ](https://openaccess.thecvf.com/content/ICCV2025/html/Li_SSVQ_Unleashing_the_Potential_of_Vector_Quantization_with_Sign-Splitting_ICCV_2025_paper.html) [ICCV'25], [MVQ](https://dl.acm.org/doi/abs/10.1145/3669940.3707268) [ASPLOS'25]. I'm also seeking collabration opportunity in CUDA kernel optimization to better support SSVQ.
+Besides, if you are interested in vector quantization, checkout our previous papers: [SSVQ](https://openaccess.thecvf.com/content/ICCV2025/html/Li_SSVQ_Unleashing_the_Potential_of_Vector_Quantization_with_Sign-Splitting_ICCV_2025_paper.html) [ICCV'25], [MVQ](https://dl.acm.org/doi/abs/10.1145/3669940.3707268) [ASPLOS'25], [VQ4DiT](https://ojs.aaai.org/index.php/AAAI/article/view/33782), [ViM-VQ](https://openaccess.thecvf.com/content/ICCV2025/html/Deng_ViM-VQ_Efficient_Post-Training_Vector_Quantization_for_Visual_Mamba_ICCV_2025_paper.html). I'm also seeking collabration opportunity in CUDA kernel optimization to better support SSVQ.
